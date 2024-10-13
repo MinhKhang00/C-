@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(15,7): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(15,30): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(15,30): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(32,16): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(32,16): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(66,40): warning C4566: character represented by universal-character-name '\u1EC5' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(66,40): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(67,40): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(67,40): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(68,39): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(69,15): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(69,15): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(71,15): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(71,15): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\BT C++\Buoi5_BT1\BT2\main.cpp(71,15): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+  BT2.vcxproj -> D:\BT C++\Buoi5_BT1\x64\Debug\BT2.exe
